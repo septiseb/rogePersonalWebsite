@@ -1,11 +1,11 @@
 {
   "version": 1,
   "functions": {
-    "/articles": {},
-    "/projects": {},
     "/about": {},
+    "/articles": {},
     "/thank-you": {},
+    "/speaking": {},
     "/uses": {},
-    "/speaking": {}
+    "/projects": {}
   }
 }

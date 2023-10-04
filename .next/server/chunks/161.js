@@ -2371,7 +2371,7 @@ Object.defineProperty(exports, "__esModule", ({
     value: true
 }));
 const stream_1 = __webpack_require__(2781);
-const stream_2 = __webpack_require__(4287);
+const stream_2 = __webpack_require__(7741);
 const provider_1 = __webpack_require__(9814);
 class ProviderStream extends provider_1.default {
     constructor(){
@@ -2480,7 +2480,7 @@ Object.defineProperty(exports, "__esModule", ({
 }));
 const fsWalk = __webpack_require__(5238);
 const reader_1 = __webpack_require__(6338);
-const stream_1 = __webpack_require__(4287);
+const stream_1 = __webpack_require__(7741);
 class ReaderAsync extends reader_1.default {
     constructor(){
         super(...arguments);
@@ -2556,7 +2556,7 @@ exports["default"] = Reader;
 
 /***/ }),
 
-/***/ 4287:
+/***/ 7741:
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
 
@@ -5541,7 +5541,7 @@ module.exports = parse;
 
 
 const path = __webpack_require__(1017);
-const scan = __webpack_require__(1082);
+const scan = __webpack_require__(9569);
 const parse = __webpack_require__(6139);
 const utils = __webpack_require__(8157);
 const constants = __webpack_require__(6647);
@@ -5854,7 +5854,7 @@ const isObject = (val)=>val && typeof val === "object" && !Array.isArray(val);
 
 /***/ }),
 
-/***/ 1082:
+/***/ 9569:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 

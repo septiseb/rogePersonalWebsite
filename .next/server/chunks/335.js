@@ -318,7 +318,7 @@ const _approutercontext = __webpack_require__(7085);
 const _routerreducer = __webpack_require__(7189);
 const _routerreducertypes = __webpack_require__(2836);
 const _createhreffromurl = __webpack_require__(4331);
-const _hooksclientcontext = __webpack_require__(9569);
+const _hooksclientcontext = __webpack_require__(7350);
 const _usereducerwithdevtools = __webpack_require__(7951);
 const _errorboundary = __webpack_require__(1232);
 const _createinitialrouterstate = __webpack_require__(1684);
@@ -966,7 +966,7 @@ const _matchsegments = __webpack_require__(7618);
 const _handlesmoothscroll = __webpack_require__(7887);
 const _redirectboundary = __webpack_require__(1442);
 const _notfoundboundary = __webpack_require__(6505);
-const _getsegmentvalue = __webpack_require__(7741);
+const _getsegmentvalue = __webpack_require__(4082);
 const _createroutercachekey = __webpack_require__(8870);
 /**
  * Add refetch marker to router state at the point of the current layout segment.
@@ -1445,9 +1445,9 @@ _export(exports, {
 });
 const _react = __webpack_require__(8038);
 const _approutercontext = __webpack_require__(7085);
-const _hooksclientcontext = __webpack_require__(9569);
+const _hooksclientcontext = __webpack_require__(7350);
 const _clienthookinservercomponenterror = __webpack_require__(2633);
-const _getsegmentvalue = __webpack_require__(7741);
+const _getsegmentvalue = __webpack_require__(4082);
 const _serverinsertedhtml = __webpack_require__(9618);
 const _redirect = __webpack_require__(2622);
 const _notfound = __webpack_require__(5858);
@@ -3350,7 +3350,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 
 /***/ }),
 
-/***/ 7741:
+/***/ 4082:
 /***/ ((module, exports) => {
 
 "use strict";

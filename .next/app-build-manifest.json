@@ -1,5 +1,14 @@
 {
   "pages": {
+    "/page": [
+      "static/chunks/webpack-1b5b7836c25ae8d3.js",
+      "static/chunks/fd9d1056-8864aced9178d7e5.js",
+      "static/chunks/596-11e5f04105db81dc.js",
+      "static/chunks/main-app-0684b79aae67ff5a.js",
+      "static/chunks/685-cc609dff10aecb7e.js",
+      "static/chunks/144-85e34c31174bdd49.js",
+      "static/chunks/app/page-01cc184c9f5ec966.js"
+    ],
     "/not-found": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
       "static/chunks/fd9d1056-8864aced9178d7e5.js",
@@ -17,16 +26,7 @@
       "static/chunks/144-85e34c31174bdd49.js",
       "static/chunks/519-b7ef0c3a1a39a708.js",
       "static/css/49e1f2095baa0f04.css",
-      "static/chunks/app/layout-8fde41696baf8390.js"
-    ],
-    "/page": [
-      "static/chunks/webpack-1b5b7836c25ae8d3.js",
-      "static/chunks/fd9d1056-8864aced9178d7e5.js",
-      "static/chunks/596-11e5f04105db81dc.js",
-      "static/chunks/main-app-0684b79aae67ff5a.js",
-      "static/chunks/685-cc609dff10aecb7e.js",
-      "static/chunks/144-85e34c31174bdd49.js",
-      "static/chunks/app/page-d989b49f018963f4.js"
+      "static/chunks/app/layout-60818930d0adc5a7.js"
     ],
     "/articles/page": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
@@ -37,6 +37,13 @@
       "static/chunks/144-85e34c31174bdd49.js",
       "static/chunks/app/articles/page-5d7d70eea6f2aaf5.js"
     ],
+    "/thank-you/page": [
+      "static/chunks/webpack-1b5b7836c25ae8d3.js",
+      "static/chunks/fd9d1056-8864aced9178d7e5.js",
+      "static/chunks/596-11e5f04105db81dc.js",
+      "static/chunks/main-app-0684b79aae67ff5a.js",
+      "static/chunks/app/thank-you/page-824b5ac12f14e365.js"
+    ],
     "/about/page": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
       "static/chunks/fd9d1056-8864aced9178d7e5.js",
@@ -46,22 +53,6 @@
       "static/chunks/144-85e34c31174bdd49.js",
       "static/chunks/app/about/page-1a8b9c654af16c7f.js"
     ],
-    "/projects/page": [
-      "static/chunks/webpack-1b5b7836c25ae8d3.js",
-      "static/chunks/fd9d1056-8864aced9178d7e5.js",
-      "static/chunks/596-11e5f04105db81dc.js",
-      "static/chunks/main-app-0684b79aae67ff5a.js",
-      "static/chunks/685-cc609dff10aecb7e.js",
-      "static/chunks/144-85e34c31174bdd49.js",
-      "static/chunks/app/projects/page-d4431a37bdf65758.js"
-    ],
-    "/thank-you/page": [
-      "static/chunks/webpack-1b5b7836c25ae8d3.js",
-      "static/chunks/fd9d1056-8864aced9178d7e5.js",
-      "static/chunks/596-11e5f04105db81dc.js",
-      "static/chunks/main-app-0684b79aae67ff5a.js",
-      "static/chunks/app/thank-you/page-824b5ac12f14e365.js"
-    ],
     "/uses/page": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
       "static/chunks/fd9d1056-8864aced9178d7e5.js",
@@ -70,6 +61,15 @@
       "static/chunks/685-cc609dff10aecb7e.js",
       "static/chunks/app/uses/page-2cae8d2b6ff5e406.js"
     ],
+    "/projects/page": [
+      "static/chunks/webpack-1b5b7836c25ae8d3.js",
+      "static/chunks/fd9d1056-8864aced9178d7e5.js",
+      "static/chunks/596-11e5f04105db81dc.js",
+      "static/chunks/main-app-0684b79aae67ff5a.js",
+      "static/chunks/685-cc609dff10aecb7e.js",
+      "static/chunks/144-85e34c31174bdd49.js",
+      "static/chunks/app/projects/page-94166db378372241.js"
+    ],
     "/speaking/page": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
       "static/chunks/fd9d1056-8864aced9178d7e5.js",
@@ -77,14 +77,6 @@
       "static/chunks/main-app-0684b79aae67ff5a.js",
       "static/chunks/685-cc609dff10aecb7e.js",
       "static/chunks/app/speaking/page-e3639131bd52f0a8.js"
-    ],
-    "/articles/crafting-a-design-system-for-a-multiplanetary-future/page": [
-      "static/chunks/webpack-1b5b7836c25ae8d3.js",
-      "static/chunks/fd9d1056-8864aced9178d7e5.js",
-      "static/chunks/596-11e5f04105db81dc.js",
-      "static/chunks/main-app-0684b79aae67ff5a.js",
-      "static/chunks/144-85e34c31174bdd49.js",
-      "static/chunks/app/articles/crafting-a-design-system-for-a-multiplanetary-future/page-6e8382167d3b7f10.js"
     ],
     "/articles/introducing-animaginary/page": [
       "static/chunks/webpack-1b5b7836c25ae8d3.js",
@@ -99,6 +91,14 @@
       "static/chunks/596-11e5f04105db81dc.js",
       "static/chunks/main-app-0684b79aae67ff5a.js",
       "static/chunks/app/articles/rewriting-the-cosmos-kernel-in-rust/page-66c02a30fbdcd9d1.js"
+    ],
+    "/articles/crafting-a-design-system-for-a-multiplanetary-future/page": [
+      "static/chunks/webpack-1b5b7836c25ae8d3.js",
+      "static/chunks/fd9d1056-8864aced9178d7e5.js",
+      "static/chunks/596-11e5f04105db81dc.js",
+      "static/chunks/main-app-0684b79aae67ff5a.js",
+      "static/chunks/144-85e34c31174bdd49.js",
+      "static/chunks/app/articles/crafting-a-design-system-for-a-multiplanetary-future/page-6e8382167d3b7f10.js"
     ]
   }
 }

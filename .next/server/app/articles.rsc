@@ -1,7 +1,7 @@
 1:HL["/_next/static/css/49e1f2095baa0f04.css",{"as":"style"}]
-0:["5ntmdnN7inqbtbvfmywYR",[[["",{"children":["articles",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/49e1f2095baa0f04.css","precedence":"next"}]],"$L3"]]]]
-4:I{"id":1431,"chunks":["685:static/chunks/685-cc609dff10aecb7e.js","144:static/chunks/144-85e34c31174bdd49.js","519:static/chunks/519-b7ef0c3a1a39a708.js","185:static/chunks/app/layout-8fde41696baf8390.js"],"name":"Providers","async":false}
-5:I{"id":1679,"chunks":["685:static/chunks/685-cc609dff10aecb7e.js","144:static/chunks/144-85e34c31174bdd49.js","519:static/chunks/519-b7ef0c3a1a39a708.js","185:static/chunks/app/layout-8fde41696baf8390.js"],"name":"Header","async":false}
+0:["THW0HkqoTGPv42llZp2X0",[[["",{"children":["articles",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/49e1f2095baa0f04.css","precedence":"next"}]],"$L3"]]]]
+4:I{"id":1431,"chunks":["685:static/chunks/685-cc609dff10aecb7e.js","144:static/chunks/144-85e34c31174bdd49.js","519:static/chunks/519-b7ef0c3a1a39a708.js","185:static/chunks/app/layout-60818930d0adc5a7.js"],"name":"Providers","async":false}
+5:I{"id":1679,"chunks":["685:static/chunks/685-cc609dff10aecb7e.js","144:static/chunks/144-85e34c31174bdd49.js","519:static/chunks/519-b7ef0c3a1a39a708.js","185:static/chunks/app/layout-60818930d0adc5a7.js"],"name":"Header","async":false}
 6:I{"id":7767,"chunks":["272:static/chunks/webpack-1b5b7836c25ae8d3.js","971:static/chunks/fd9d1056-8864aced9178d7e5.js","596:static/chunks/596-11e5f04105db81dc.js"],"name":"default","async":false}
 7:I{"id":7920,"chunks":["272:static/chunks/webpack-1b5b7836c25ae8d3.js","971:static/chunks/fd9d1056-8864aced9178d7e5.js","596:static/chunks/596-11e5f04105db81dc.js"],"name":"default","async":false}
 8:I{"id":6685,"chunks":["685:static/chunks/685-cc609dff10aecb7e.js","144:static/chunks/144-85e34c31174bdd49.js","222:static/chunks/app/articles/page-5d7d70eea6f2aaf5.js"],"name":"","async":false}

@@ -1,14 +1,14 @@
 {
   "/favicon.ico/route": "/favicon.ico",
-  "/_not-found": "/_not-found",
   "/page": "/",
+  "/_not-found": "/_not-found",
   "/articles/page": "/articles",
-  "/about/page": "/about",
-  "/projects/page": "/projects",
   "/thank-you/page": "/thank-you",
+  "/about/page": "/about",
   "/uses/page": "/uses",
+  "/projects/page": "/projects",
   "/speaking/page": "/speaking",
-  "/articles/crafting-a-design-system-for-a-multiplanetary-future/page": "/articles/crafting-a-design-system-for-a-multiplanetary-future",
   "/articles/introducing-animaginary/page": "/articles/introducing-animaginary",
-  "/articles/rewriting-the-cosmos-kernel-in-rust/page": "/articles/rewriting-the-cosmos-kernel-in-rust"
+  "/articles/rewriting-the-cosmos-kernel-in-rust/page": "/articles/rewriting-the-cosmos-kernel-in-rust",
+  "/articles/crafting-a-design-system-for-a-multiplanetary-future/page": "/articles/crafting-a-design-system-for-a-multiplanetary-future"
 }
